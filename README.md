@@ -61,7 +61,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [⚜️ Maison Web](https://github.com/pms5566/Maison-Web) | Ultra-luxury restaurant web experience | JavaScript, CSS |
+| [⚜️ Maison Web](https://pms5566.github.io/Maison-Web/) | Ultra-luxury restaurant web experience | JavaScript, CSS |
 | [💪 Iron Peak Gym](https://github.com/pms5566/Iron-Peak-Gym) | Premium fitness landing page | HTML, CSS |
 
 ---
