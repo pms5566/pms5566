@@ -16,12 +16,12 @@
 ## 👨‍💻 About Me
 
 - 📈 **6+ years** active trader in equity & crypto markets (NSE/BSE, BTC, ETH, DeFi)
-- 🤖 **Python algo trader** — built & deployed live trading bots using ccxt, Backtrader
-- 💻 **Full-Stack Developer** — React, TypeScript, Angular, Node.js, Docker
-- 🌐 **Web3 investor** — active in Ethereum, Solana, Base & DeFi ecosystems
-- 🧠 **AI Domain Expert** — finance & trading AI training, RLHF evaluation
+- 🤖 **Python algo trader** : built & deployed live trading bots using ccxt, Backtrader
+- 💻 **Full-Stack Developer** : React, TypeScript, Angular, Node.js, Docker
+- 🌐 **Web3 investor** : active in Ethereum, Solana, Base & DeFi ecosystems
+- 🧠 **AI Domain Expert** : finance & trading AI training, RLHF evaluation
 - 📍 Based in **Rajpura, Punjab, India**
-- ⚡ Available for **freelance projects** — delivered in 3–5 days
+- ⚡ Available for **freelance projects** : delivered in 3–5 days
 
 ---
 
