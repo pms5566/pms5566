@@ -16,12 +16,12 @@
 ## 👨‍💻 About Me
 
 - 📈 **6+ years** active trader in equity & crypto markets (NSE/BSE, BTC, ETH, DeFi)
-- 🤖 **Python algo trader** : built & deployed live trading bots using ccxt, Backtrader
-- 💻 **Full-Stack Developer** : React, TypeScript, Angular, Node.js, Docker
-- 🌐 **Web3 investor** : active in Ethereum, Solana, Base & DeFi ecosystems
-- 🧠 **AI Domain Expert** : finance & trading AI training, RLHF evaluation
+- 🤖 **Python algo trader** — built & deployed live trading bots using ccxt, Backtrader
+- 💻 **Full-Stack Developer** — React, TypeScript, Angular, Node.js, Docker
+- 🌐 **Web3 investor** — active in Ethereum, Solana, Base & DeFi ecosystems
+- 🧠 **AI Domain Expert** — finance & trading AI training, RLHF evaluation
 - 📍 Based in **Rajpura, Punjab, India**
-- ⚡ Available for **freelance projects** : delivered in 3–5 days
+- ⚡ Available for **freelance projects** — delivered in 3–5 days
 
 ---
 
@@ -55,19 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Parmeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pms5566&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pms5566&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pms5566&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
